@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoClick.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoClick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoClick_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoClick_main.iml" group="AutoClick" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoClick_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoClick_test.iml" group="AutoClick" />
+    </modules>
+  </component>
+</project>
